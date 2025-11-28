@@ -12,13 +12,13 @@
 .phpunit.cache/
 /.phpunit.result.cache
 
-# storage/
-# !storage/app/public/
-# public/storage
-# public/upload_*
-# bootstrap/cache/
-# storage/*.key
-# storage/pail
+storage/
+!storage/app/public/
+public/storage
+public/upload_*
+bootstrap/cache/
+storage/*.key
+storage/pail
 
 .idea/
 .vscode/
